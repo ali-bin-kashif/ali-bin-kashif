@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alibinkashif007@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/tnuwr5tw08](https://flowcv.com/resume/tnuwr5tw08)
+- 📄 Know about my experiences [**Here**](https://www.linkedin.com/in/ali-bin-kashif)
 
 - ⚡ Fun fact **I love programming :)**
 
