@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVlcWw2cDlqcnE0eXE5YWN4MXloMHF3djVlM3pxMHQ2dmdvZGZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bin-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bin-kashif" /> </p>
 
-- 🔭 I’m currently working on <a href="https://al1games.itch.io/toy-defenders">Toy Defenders hyper-casual game</a>
+- 🔭 I’m currently working on <a href="https://al1games.itch.io/toy-defenders">**Toy Defenders hyper-casual game**</a>
 
 - 🌱 I’m currently learning **Unity, C#**
 
