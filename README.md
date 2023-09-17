@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on <a href="https://al1games.itch.io/toy-defenders">**Toy Defenders hyper-casual game**</a>
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Augmented Reality Development in Unity**
 
 - 💬 Ask me about **Game dev, Unity, C#**
 
