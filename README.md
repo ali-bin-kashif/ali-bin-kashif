@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋, I am Ali Bin Kashif</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamVlcWw2cDlqcnE0eXE5YWN4MXloMHF3djVlM3pxMHQ2dmdvZGZjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
