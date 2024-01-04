@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-bin-kashif&label=Profile%20views&color=0e75b6&style=flat" alt="ali-bin-kashif" /> </p>
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Data Science, Data Analytics & Machine Learning**
 
 - 📫 How to reach me **alibinkashif007@gmail.com**
 
