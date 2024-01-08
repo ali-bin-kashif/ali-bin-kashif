@@ -1,11 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=1710374400&v=beta&t=bh2gN7OS4tyBKJ5uopj5uolEkl98385VPZr_hPP6J9Q"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-bin-kashif.ali-bin-kashif&"  />
+  <img height="293" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
 ###
@@ -26,15 +20,21 @@
 
 ###
 
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-bin-kashif.ali-bin-kashif&"  />
+</div>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I am a dedicated professional with a strong interest for data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytic & Machine Learning.<br>- 📫You can reach me through my Gmail or Linkedin.<br>-⚡ Fun fact I love programming :)</p>
+<img align="right" height="200" src="https://camo.githubusercontent.com/545c9198bd22ffbdb34950086a3cbbf93742981912508aa8092ca771c3564b40/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616d566c6357773263446c71636e45306558453559574e344d586c6f4d484633646a566c4d3370784d485132646d64765a475a6a5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966"  />
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/545c9198bd22ffbdb34950086a3cbbf93742981912508aa8092ca771c3564b40/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616d566c6357773263446c71636e45306558453559574e344d586c6f4d484633646a566c4d3370784d485132646d64765a475a6a5a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966"  />
+<p align="left">I am a dedicated professional with a strong interest for data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Gmail or Linkedin.<br>-⚡ Fun fact I love programming :)</p>
 
 ###
 
@@ -79,9 +79,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ali-bin-kashif&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ali-bin-kashif/ali-bin-kashif/output/snake.svg" alt="Snake animation" />
 
 ###
