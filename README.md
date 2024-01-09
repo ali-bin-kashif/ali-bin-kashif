@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I am a dedicated professional with a strong interest for data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Gmail or Linkedin.<br>-⚡ **Fun fact:** I love to solve problems through my skills and expertise :)</p>
+<p align="left">I am a dedicated professional with a strong interest for data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Gmail or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
 
 ###
 
