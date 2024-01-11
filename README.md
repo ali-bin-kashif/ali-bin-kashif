@@ -1,6 +1,7 @@
-<div align="right">
-  <img height="290" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
-</div>
+[![SVG Banners](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Akshay090/svg-banners)
+<!-- <div align="right">-->
+<!--   <img height="290" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  /> -->
+<!-- </div> -->
 
 ###
 
