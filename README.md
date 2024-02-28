@@ -71,6 +71,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/powerbi/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
