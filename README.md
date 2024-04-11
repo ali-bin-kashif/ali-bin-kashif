@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Computer Science student at NEDUET | Aspiring Data Scientist | Data Analyst</h3>
+<h3 align="center">Data Analyst | Aspiring Data Scientist | Computer Science student at NEDUET </h3>
 
 ###
 
@@ -16,11 +16,11 @@
   <a href="https://www.linkedin.com/in/ali-bin-kashif/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linktr.ee/alibinkashif?utm_source=linktree_profile_share&ltsid=352c424c-b15d-45fa-825b-baedd016f4f7" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  <a href="https://ali-bin-kashif-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=5271FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=alibinkashif007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.kaggle.com/alibinkashif" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=2CAAE6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -40,45 +40,37 @@
 
 ###
 
-<p align="left">I am a dedicated professional with a strong interest for data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Gmail or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
+<p align="left">I am a dedicated professional with a strong interest in data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
 
 ###
+###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/powerbi/FFC000" height="40" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python" />
+  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-    flat-those-icons" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy" />
+  <img height=48 width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" />
+  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo" />
 </div>
 
 ###
+<hr>
 
 <h3 align="left">📊 My Stats:</h3>
 
