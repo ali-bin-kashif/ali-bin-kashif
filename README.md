@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Data Analyst | Aspiring Data Scientist | Computer Science student at NEDUET </h3>
+<h3 align="center">Data and AI Enthusiast | Computer Science NEDUET | Driving business growth with data-driven solutions. </h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I am a dedicated professional with a strong interest in data science and analytics. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data Analyst role.<br>- 📚 I'm currently learning Data Analytics & Machine Learning.<br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
+<p align="left">I am a dedicated professional with a strong interest in data science and AI. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data and AI roles.<br>- 📚 I'm currently learning about Machine Learning, Deep Learning, Generative AI.<br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
 
 ###
 ###
@@ -52,14 +52,20 @@
 <div align="left">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python" />
   <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="external-SQL-development-files-those-icons-    flat-those-icons" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" />
+  
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="1" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy" />
   <img height=48 width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="1" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" />
   <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva" />
@@ -67,6 +73,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1" />
 </div>
 
 ###
