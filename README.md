@@ -66,6 +66,8 @@
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=opencv" alt="1" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" />
   <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion" />
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva" />
