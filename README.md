@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I am a dedicated professional with a strong interest in data science and AI. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking entry-level Data and AI roles.<br>- 📚 I'm currently learning about Machine Learning, Deep Learning, Generative AI.<br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
+<p align="left">I am a dedicated professional with a strong interest in data science and AI. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking associate-level Data and AI roles.<br>- 📚 I'm currently learning about Machine Learning, Deep Learning, and Generative AI. <br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
 
 ###
 ###
@@ -66,6 +66,7 @@
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="1" />
+  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=opencv" alt="1" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" />
