@@ -61,6 +61,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" />
+  <img width="48" height="48" src="icons\airflow.png" alt="airflow" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" alt="1" />
   <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="1" />
