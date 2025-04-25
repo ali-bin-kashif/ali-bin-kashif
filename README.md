@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Data and AI Enthusiast | Computer Science NEDUET | Driving business growth with data-driven solutions. </h3>
+<h3 align="center">Data Engineer | Helping Businesses & SMEs Build Scalable Data Solutions | On a mission to solve data problems 🚀 </h3>
 
 ###
 
@@ -40,7 +40,15 @@
 
 ###
 <br>
-<p align="left">I am a dedicated professional with a strong interest in data science and AI. My journey has been marked by continuous learning and a commitment to solving complex problems. I believe in the transformative power of data to drive meaningful insights and impact businesses positively.<br><br>- 🔭 Currently seeking associate-level Data and AI roles.<br>- 📚 I'm currently learning about Machine Learning, Deep Learning, and Generative AI. <br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
+<p align="left">Greetings! 👋 I'm Ali.
+
+I'm a data professional with over a year of experience and with a proven ability to deliver short or long-term projects in data engineering, workflow automation, data warehousing, and BI realm. I've worked in different domains like e-commerce, SaaS, hospitality, and mobile apps. My passion is to partner with my clients to deliver top-notch, scalable data solutions that maximize your ROI and drive business growth.
+
+My approach?
+###
+Understand the problem first, then architect an effective solution using the right technologies and tools.
+###
+ <br>- 📫You can reach me through my Website or Linkedin.<br>-⚡ <b>Fun fact:</b> I love to solve problems through my skills and expertise :)</p>
 
 ###
 ###
