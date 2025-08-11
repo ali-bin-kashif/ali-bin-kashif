@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ali-bin-kashif/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://ali-bin-kashif-portfolio.vercel.app" target="_blank">
+  <a href="https://www.alidataguy.online/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=5271FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="https://www.kaggle.com/alibinkashif" target="_blank">
