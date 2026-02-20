@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Data Engineer | Helping Businesses & SMEs Build Scalable Data Solutions | On a mission to solve data problems 🚀 </h3>
+<h3 align="center">Senior Data Engineer | AI Automation Strategist | Helping SMEs grow with Data & AI 🚀 </h3>
 
 ###
 
