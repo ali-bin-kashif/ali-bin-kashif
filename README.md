@@ -42,7 +42,9 @@
 <br>
 <p align="left">Greetings! 👋 I'm Ali.
 
-I'm a data professional with over a year of experience and with a proven ability to deliver short or long-term projects in data engineering, workflow automation, data warehousing, and BI realm. I've worked in different domains like e-commerce, SaaS, hospitality, and mobile apps. My passion is to partner with my clients to deliver top-notch, scalable data solutions that maximize your ROI and drive business growth.
+I'm a senior cloud-native data engineer helping startups and enterprises build scalable, cost-efficient data systems. I've delivered end-to-end projects across E-commerce, SaaS, and healthcare designing & building data pipelines, warehouses, analytics and cloud data solutions that are reliable from day one and easy to scale as the business grows.
+
+My passion is to partner closely with my clients to deliver reliable, scalable data solutions that drive business growth, not technical debt and enable better, faster decisions.
 
 My approach?
 ###
