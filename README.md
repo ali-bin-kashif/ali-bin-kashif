@@ -58,48 +58,43 @@ Understand the problem first, then architect an effective solution using the rig
 <h3 align="left">🛠 Skills and Tools</h3>
 
 ###
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  max-width: 600px;
-  align-items: center;
-">
+<div align="left">
 
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python" />
-  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" alt="sql" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=gcp" alt="gcp" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy" />
-  <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" />
-  
-  <!-- FIXED PATH -->
-  <img width="48" height="48" src="icons/airflow.png" alt="airflow" />
-  
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=langchain" alt="langchain" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" alt="pinecone" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" alt="fastapi" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=flask" alt="flask" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" alt="scikit-learn" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" alt="tensorflow" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" alt="pytorch" />
-  <img width="48" height="48" src="https://go-skill-icons.vercel.app/api/icons?i=opencv" alt="opencv" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git" />
-  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="cpp" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="csharp" />
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="powerbi" />
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" />
+  <img src="https://img.icons8.com/fluency/48/python.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-SQL-development-files-those-icons-flat-those-icons.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/pandas.png" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/numpy.png" width="48" style="display:inline-block;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="48" style="display:inline-block;" />
+
+  <img src="icons/airflow.png" width="48" style="display:inline-block;" />
+
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pinecone" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="48" style="display:inline-block;" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/git.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/glyph-neue/64/notion.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/fluency/48/canva.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/css3.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="48" style="display:inline-block;" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" style="display:inline-block;" />
 
 </div>
+
 ###
+
 <hr>
 
 <h3 align="left">📊 My Stats:</h3>
@@ -107,7 +102,7 @@ Understand the problem first, then architect an effective solution using the rig
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-bin-kashif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-bin-kashif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=ali-bin-kashif&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-bin-kashif&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
